@@ -1,1 +1,1 @@
-uvicorn VebboxPro:app0000
+uvicorn VebboxPro:app --host 0.0.0.0 --port 10000
